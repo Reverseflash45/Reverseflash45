@@ -85,17 +85,33 @@ akademik, kebugaran, nutrisi, keuangan, tidur, dan lari — dalam satu tempat.
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Reverseflash45&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Reverseflash45&show_icons=true&hide_border=true&count_private=true&theme=default">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reverseflash45&show_icons=true&hide_border=true&count_private=true" alt="Statistik GitHub Rafi Fernandito">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverseflash45&layout=compact&hide_border=true&langs_count=6&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverseflash45&layout=compact&hide_border=true&langs_count=6&theme=default">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverseflash45&layout=compact&hide_border=true&langs_count=6" alt="Bahasa yang paling sering dipakai">
-  </picture>
+  <a href="https://github.com/Reverseflash45?tab=followers">
+    <img src="https://img.shields.io/github/followers/Reverseflash45?style=for-the-badge&logo=github&label=Pengikut&labelColor=0D1117&color=1F6FEB" alt="Jumlah pengikut">
+  </a>
+  <a href="https://github.com/Reverseflash45/Tracking/stargazers">
+    <img src="https://img.shields.io/github/stars/Reverseflash45/Tracking?style=for-the-badge&logo=github&label=Bintang&labelColor=0D1117&color=1F6FEB" alt="Bintang di repo Tracking">
+  </a>
+  <img src="https://img.shields.io/github/languages/top/Reverseflash45/Tracking?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117&color=0175C2" alt="Bahasa dominan di repo Tracking">
+  <img src="https://img.shields.io/github/last-commit/Reverseflash45/Tracking?style=for-the-badge&logo=git&logoColor=white&label=Commit%20terakhir&labelColor=0D1117&color=1F6FEB" alt="Commit terakhir">
 </p>
+
+<p align="center">
+  <sub>Grafik kontribusi tahunan otomatis muncul tepat di bawah README ini di halaman profil.</sub>
+</p>
+
+<!--
+  Kartu github-readme-stats sengaja TIDAK dipakai di sini.
+  Instance gratisnya (github-readme-stats.vercel.app) sering membalas HTTP 503
+  karena kena rate limit, dan gambarnya jadi muncul rusak di profil.
+
+  Kalau tetap mau kartunya, cara yang tahan lama adalah deploy instance sendiri:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+  Setelah itu ganti domainnya pada URL di bawah, lalu pindahkan keluar dari komentar ini.
+
+  <img height="165" src="https://INSTANCE-KAMU.vercel.app/api?username=Reverseflash45&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
+  <img height="165" src="https://INSTANCE-KAMU.vercel.app/api/top-langs/?username=Reverseflash45&layout=compact&hide_border=true&langs_count=6&theme=tokyonight">
+-->
+
 
 ---
 
