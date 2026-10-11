@@ -141,11 +141,11 @@ Semua penulisan lewat fungsi Postgres yang memvalidasi di basis data. Bot pratin
 <a href="https://sentimen.raffstw.my.id"><img src="gambar/sentimen.webp" width="100%" alt="Tangkapan layar Analisis Sentimen Emiten" /></a>
 
 ### Sentimen Emiten
-`Proyek Kuliah`
+`Proyek Mandiri`
 
 Pantau sentimen berita 45 emiten LQ45: RSS yang patuh robots.txt, pemetaan berita ke emiten, verifikasi ke keterbukaan BEI, lalu disandingkan dengan harga.
 
-Pengklasifikasi berupa antarmuka yang bisa ditukar. REST API + dasbor, 205 uji tanpa jaringan.
+Skor sentimen harian disandingkan dengan harga lewat korelasi dan uji Granger. Pengklasifikasi bisa ditukar ke IndoBERT. 7.000+ berita, 252 uji otomatis.
 
 <img src="https://img.shields.io/badge/-FastAPI-0A0B0E?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Python-0A0B0E?style=flat-square&logo=python&logoColor=FFD43B&labelColor=0A0B0E&color=161A20" />
