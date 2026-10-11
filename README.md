@@ -25,9 +25,9 @@ Mahasiswa D4 Teknik Informatika, Fakultas Vokasi Universitas Airlangga. Membangu
 dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke produksi.
 
 <table>
-<tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera HP. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat</td></tr>
+<tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
 <tr><td align="center">▹</td><td>Baru rilis <b>UMR</b>, peta upah minimum 2026 vs biaya hidup di 514 kabupaten/kota, dengan data yang dihimpun sendiri</td></tr>
-<tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 27 modul, 950 test otomatis</td></tr>
+<tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
 
@@ -67,13 +67,13 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 Hitung repetisi squat & push-up lewat kamera, lalu nilai bentuk gerakan tiap repetisi: kurang dalam, lutut masuk ke dalam, pinggul turun.
 
-Pose 33 titik diubah jadi deret waktu sudut sendi, lalu diklasifikasi di HP oleh aturan, Random Forest, 1D-CNN, dan LSTM. Pipeline Python diuji identik dengan versi Dart sampai 1e-8.
+Pose 33 titik diubah jadi deret waktu sudut sendi, lalu diklasifikasi di HP oleh aturan, Random Forest, 1D-CNN, dan LSTM. Pipeline Python diuji identik dengan versi Dart sampai 1e-8. Versi web memakai MediaPipe dan berkas TFLite yang sama.
 
 <img src="https://img.shields.io/badge/-Flutter-0A0B0E?style=flat-square&logo=flutter&logoColor=54C5F8&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-TFLite-0A0B0E?style=flat-square&logo=tensorflow&logoColor=FF6F00&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Python-0A0B0E?style=flat-square&logo=python&logoColor=FFD43B&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/postur) · [Unduh APK](https://github.com/Reverseflash45/postur/releases/latest)
+[**Repo →**](https://github.com/Reverseflash45/postur) · [Coba di browser](https://postur-tau.vercel.app) · [Unduh APK](https://github.com/Reverseflash45/postur/releases/latest)
 
 </td>
 <td width="50%" valign="top">
@@ -107,7 +107,7 @@ Jadwal kuliah, tugas, workout, dan keuangan dalam satu aplikasi.
 
 Impor KRS lewat OCR · hitung repetisi pakai kamera · lari GPS · baca struk otomatis · luring penuh.
 
-**27 modul · 31 tabel · 950 test**
+**29 modul · 34 tabel · 1.059 test**
 
 <img src="https://img.shields.io/badge/-Flutter-0A0B0E?style=flat-square&logo=flutter&logoColor=54C5F8&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Supabase-0A0B0E?style=flat-square&logo=supabase&logoColor=3ECF8E&labelColor=0A0B0E&color=161A20" />
@@ -145,7 +145,7 @@ Semua penulisan lewat fungsi Postgres yang memvalidasi di basis data. Bot pratin
 
 Pantau sentimen berita 45 emiten LQ45: RSS yang patuh robots.txt, pemetaan berita ke emiten, verifikasi ke keterbukaan BEI, lalu disandingkan dengan harga.
 
-Skor sentimen harian disandingkan dengan harga lewat korelasi dan uji Granger. Pengklasifikasi bisa ditukar ke IndoBERT. 7.000+ berita, 252 uji otomatis.
+Skor sentimen harian disandingkan dengan harga lewat korelasi dan uji Granger. Pengklasifikasi bisa ditukar ke IndoBERT. 7.000+ berita, 261 uji otomatis.
 
 <img src="https://img.shields.io/badge/-FastAPI-0A0B0E?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Python-0A0B0E?style=flat-square&logo=python&logoColor=FFD43B&labelColor=0A0B0E&color=161A20" />
