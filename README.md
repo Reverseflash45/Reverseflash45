@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>UMR</b>, peta upah minimum 2026 vs biaya hidup di 514 kabupaten/kota, dengan data yang dihimpun sendiri</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Dulu Segini</b>, kalkulator daya beli rupiah 1967–2025, dan <b>UMR</b>, peta upah minimum 2026 vs biaya hidup di 514 kabupaten/kota</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -171,9 +171,35 @@ Tautan invoice bertoken, jadi klien bisa bayar via QRIS tanpa akun. Hanya pembay
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>Proyek kuliah lain: [WTOOLS](https://github.com/Reverseflash45/wtools-ui-workshop) (situs kebugaran, dari Figma sampai implementasi) · [RSHP](https://github.com/Reverseflash45/RSHP) (manajemen rumah sakit hewan pendidikan)</sub>
+<a href="https://dulu-segini.vercel.app"><img src="gambar/dulu-segini.webp" width="100%" alt="Tangkapan layar Dulu Segini" /></a>
+
+### Dulu Segini
+`Proyek Mandiri`
+
+Uang saku Rp1.000 tahun 1995 itu setara berapa sekarang? Daya beli rupiah 1967–2025 dari Indeks Harga Konsumen, dua arah.
+
+Plus tiga skenario: disimpan tunai, ditukar dolar, atau dibelikan emas. Data ditarik dari API World Bank, hasilnya bisa dibagikan sebagai kartu bergaya uang kertas lama.
+
+<img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-Python-0A0B0E?style=flat-square&logo=python&logoColor=FFD43B&labelColor=0A0B0E&color=161A20" />
+
+[**Repo →**](https://github.com/Reverseflash45/dulu-segini) · [Hitung](https://dulu-segini.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### Proyek kuliah
+
+- [**WTOOLS**](https://github.com/Reverseflash45/wtools-ui-workshop): situs kebugaran, dari Figma sampai implementasi
+- [**RSHP**](https://github.com/Reverseflash45/RSHP): manajemen rumah sakit hewan pendidikan
+
+</td>
+</tr>
+</table>
 
 <br/>
 
