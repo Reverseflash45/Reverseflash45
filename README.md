@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Gending</b> (gamelan Jawa yang bisa dimainkan di peramban), <b>Hilal</b> (hisab awal bulan hijriah), dan <b>Bayang</b> (hari tanpa bayangan)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Aksara</b> (alih aksara Latin ⇄ Jawa yang menjelaskan dirinya), <b>Gending</b> (gamelan Jawa di peramban), dan <b>Hilal</b> (hisab awal bulan hijriah)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -298,7 +298,23 @@ Semua bunyi disintesis dengan Web Audio, tanpa rekaman. Plus perbandingan laras 
 [**Repo →**](https://github.com/Reverseflash45/gending) · [Main](https://gending-id.vercel.app)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+<a href="https://aksara-id.vercel.app"><img src="gambar/aksara.webp" width="100%" alt="Tangkapan layar Aksara" /></a>
+
+### Aksara
+`Proyek Mandiri`
+
+Tulis namamu dalam aksara Jawa. Alih aksara Latin ⇄ hanacaraka dengan pasangan, sandhangan, dan catatan per suku kata yang menjelaskan kenapa ditulis begitu.
+
+Plus carakan menurut kisah Aji Saka, kuis membaca, dan unduhan gambar.
+
+<img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-Unicode-161A20?style=flat-square" />
+
+[**Repo →**](https://github.com/Reverseflash45/aksara) · [Coba](https://aksara-id.vercel.app)
+
+</td>
 </tr>
 </table>
 
