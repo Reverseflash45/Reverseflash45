@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Hilal</b> (hisab awal bulan hijriah untuk 514 kabupaten/kota), <b>Bayang</b> (hari tanpa bayangan), dan <b>Bara</b> (letusan gunung api Indonesia sejak 1500)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Gending</b> (gamelan Jawa yang bisa dimainkan di peramban), <b>Hilal</b> (hisab awal bulan hijriah), dan <b>Bayang</b> (hari tanpa bayangan)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -279,6 +279,26 @@ Perkiraan awal Ramadan, Idulfitri, dan Iduladha, plus diagram langit barat. Diuj
 [**Repo →**](https://github.com/Reverseflash45/hilal) · [Buka](https://hilal-id.vercel.app)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://gending-id.vercel.app"><img src="gambar/gending.webp" width="100%" alt="Tangkapan layar Gending" /></a>
+
+### Gending
+`Proyek Mandiri`
+
+Gamelan Jawa di peramban: ketuk saron, tulis balungan dalam notasi kepatihan, dan dengar gong, kenong, kempul, serta kethuk jatuh di tempatnya untuk lancaran, ketawang, atau ladrang.
+
+Semua bunyi disintesis dengan Web Audio, tanpa rekaman. Plus perbandingan laras slendro, pelog, dan piano.
+
+<img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-Web%20Audio-161A20?style=flat-square" />
+
+[**Repo →**](https://github.com/Reverseflash45/gending) · [Main](https://gending-id.vercel.app)
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
