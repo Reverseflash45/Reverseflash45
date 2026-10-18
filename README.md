@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Dulu Segini</b>, kalkulator daya beli rupiah 1967–2025, dan <b>UMR</b>, peta upah minimum 2026 vs biaya hidup di 514 kabupaten/kota</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Tebak Daerah</b> (game tebak 514 kabupaten/kota dari bentuknya), <b>Dulu Segini</b> (daya beli rupiah 1967–2025), dan <b>UMR</b> (upah minimum vs biaya hidup)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -192,14 +192,25 @@ Plus tiga skenario: disimpan tunai, ditukar dolar, atau dibelikan emas. Data dit
 </td>
 <td width="50%" valign="top">
 
-### Proyek kuliah
+<a href="https://tebak-daerah.vercel.app"><img src="gambar/tebak-daerah.webp" width="100%" alt="Tangkapan layar Tebak Daerah" /></a>
 
-- [**WTOOLS**](https://github.com/Reverseflash45/wtools-ui-workshop): situs kebugaran, dari Figma sampai implementasi
-- [**RSHP**](https://github.com/Reverseflash45/RSHP): manajemen rumah sakit hewan pendidikan
+### Tebak Daerah
+`Proyek Mandiri`
+
+Game ala Worldle: tebak satu dari 514 kabupaten & kota dari bentuk wilayahnya. Enam kesempatan, petunjuk jarak dan arah, soal harian yang sama untuk semua orang.
+
+Batas wilayah disederhanakan per daerah supaya kota kecil tidak jadi segitiga; pengujian mencocokkan luas tiap bentuk dengan aslinya.
+
+<img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
+
+[**Repo →**](https://github.com/Reverseflash45/tebak-daerah) · [Main](https://tebak-daerah.vercel.app)
 
 </td>
 </tr>
 </table>
+
+<sub>Proyek kuliah lain: [WTOOLS](https://github.com/Reverseflash45/wtools-ui-workshop) (situs kebugaran, dari Figma sampai implementasi) · [RSHP](https://github.com/Reverseflash45/RSHP) (manajemen rumah sakit hewan pendidikan)</sub>
 
 <br/>
 
