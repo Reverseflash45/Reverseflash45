@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Bara</b> (letusan gunung api Indonesia sejak 1500), <b>Getar</b> (gempa M5+ di sekitar daerahmu sejak 1900), dan <b>Tebak Daerah</b> (game tebak 514 kabupaten/kota dari bentuknya)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Bayang</b> (hari tanpa bayangan untuk 514 kabupaten/kota), <b>Bara</b> (letusan gunung api Indonesia sejak 1500), dan <b>Getar</b> (gempa M5+ di sekitar daerahmu sejak 1900)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -243,6 +243,26 @@ Letusan yang masih berlangsung ditandai, termasuk Dukono yang erupsi terus sejak
 [**Repo →**](https://github.com/Reverseflash45/bara) · [Buka](https://bara-id.vercel.app)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://bayang-id.vercel.app"><img src="gambar/bayang.webp" width="100%" alt="Tangkapan layar Bayang" /></a>
+
+### Bayang
+`Proyek Mandiri`
+
+Kapan matahari tepat di atas kepalamu? Tanggal dan jam hari tanpa bayangan untuk 514 kabupaten/kota, dihitung di peramban dari rumus posisi matahari.
+
+Plus simulasi jam matahari tampak atas, peta tanggal dan jam terbit seluruh Indonesia, dan grafik kenapa terjadi dua kali setahun.
+
+<img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
+
+[**Repo →**](https://github.com/Reverseflash45/bayang) · [Buka](https://bayang-id.vercel.app)
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
