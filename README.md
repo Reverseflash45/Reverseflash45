@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Lintas</b> (teka-teki rute antarkabupaten harian), <b>Lidah</b> (peta 727 bahasa ibu di Indonesia), dan <b>Aksara</b> (alih aksara Latin ⇄ Jawa)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Gerah</b> (garis hangat Indonesia 1950–2024), <b>Lintas</b> (teka-teki rute antarkabupaten harian), dan <b>Lidah</b> (peta 727 bahasa ibu di Indonesia)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -350,6 +350,27 @@ Graf ketetanggaan dari topologi peta, rute terpendek dengan BFS, dan teka-teki y
 
 [**Repo →**](https://github.com/Reverseflash45/lintas) · [Main](https://lintas-id.vercel.app)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://gerah.vercel.app"><img src="gambar/gerah.webp" width="100%" alt="Tangkapan layar Gerah" /></a>
+
+### Gerah
+`Proyek Mandiri`
+
+Garis hangat Indonesia 1950–2024: 2024 tahun terpanas, dan 9 dari 10 tahun terpanas terjadi sejak 2015. Data ERA5 lewat World Bank CCKP.
+
+Isi tahun lahirmu untuk melihat berapa derajat lebih gerah sejak itu, plus kalender panas 900 bulan.
+
+<img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
+
+[**Repo →**](https://github.com/Reverseflash45/gerah) · [Buka](https://gerah.vercel.app)
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
