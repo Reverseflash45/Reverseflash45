@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Lidah</b> (peta 727 bahasa ibu di Indonesia), <b>Aksara</b> (alih aksara Latin ⇄ Jawa), dan <b>Gending</b> (gamelan Jawa di peramban)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Lintas</b> (teka-teki rute antarkabupaten harian), <b>Lidah</b> (peta 727 bahasa ibu di Indonesia), dan <b>Aksara</b> (alih aksara Latin ⇄ Jawa)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -334,7 +334,23 @@ Plus komposisi per wilayah, bahasa terdekat dari kabupaten/kotamu, dan silsilah 
 [**Repo →**](https://github.com/Reverseflash45/lidah) · [Buka](https://lidah.vercel.app)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+<a href="https://lintas-id.vercel.app"><img src="gambar/lintas.webp" width="100%" alt="Tangkapan layar Lintas" /></a>
+
+### Lintas
+`Proyek Mandiri`
+
+Teka-teki geografi harian ala Travle: dua kabupaten/kota, tebak wilayah di antaranya sampai jalurnya tersambung lewat perbatasan darat.
+
+Graf ketetanggaan dari topologi peta, rute terpendek dengan BFS, dan teka-teki yang sama untuk semua orang setiap hari.
+
+<img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-Game-161A20?style=flat-square" />
+
+[**Repo →**](https://github.com/Reverseflash45/lintas) · [Main](https://lintas-id.vercel.app)
+
+</td>
 </tr>
 </table>
 
