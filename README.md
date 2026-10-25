@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur.raffstw.my.id">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Tembus</b> (latihan TOEFL ITP), <b>Cekrek</b> (photobooth di browser), dan <b>Cicil</b> (kalkulator bunga sebenarnya)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Napas</b> (kualitas udara 514 kabupaten/kota), <b>Tembus</b> (latihan TOEFL ITP), dan <b>Cekrek</b> (photobooth di browser)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -443,6 +443,21 @@ Latihan TOEFL ITP dengan pembahasan bahasa Indonesia: satu soal per layar, langs
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://napas-mauve.vercel.app"><img src="gambar/napas.webp" width="100%" alt="Tangkapan layar Napas" /></a>
+
+### Napas
+`Proyek Mandiri`
+
+Seberapa kotor udara di daerahmu? PM2.5 di 514 kabupaten/kota, 1998–2024, dari data satelit ACAG yang dikalibrasi alat ukur darat.
+
+Kalender bulanan 27 tahun memperlihatkan musim asap karhutla; peta per tahun dengan tombol putar.
+
+<img src="https://img.shields.io/badge/-Python-0A0B0E?style=flat-square&logo=python&logoColor=3776AB&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-Remote%20Sensing-161A20?style=flat-square" />
+
+[**Repo →**](https://github.com/Reverseflash45/napas) · [Cek](https://napas-mauve.vercel.app)
+
 </td>
 </tr>
 </table>
