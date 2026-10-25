@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Gerhana</b> (gerhana matahari di 514 kabupaten/kota, 1900–2100), <b>Gerah</b> (garis hangat Indonesia 1950–2024), dan <b>Lintas</b> (teka-teki rute antarkabupaten harian)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Cicil</b> (kalkulator bunga sebenarnya), <b>Gerhana</b> (gerhana matahari di 514 kabupaten/kota, 1900–2100), dan <b>Gerah</b> (garis hangat Indonesia 1950–2024)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -386,6 +386,27 @@ Jam dan lama gerhana di daerahmu, gambar Matahari dan Bulan yang bisa diputar, p
 
 [**Repo →**](https://github.com/Reverseflash45/gerhana) · [Buka](https://gerhana-id.vercel.app)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://cicil-id.vercel.app"><img src="gambar/cicil.webp" width="100%" alt="Tangkapan layar Cicil" /></a>
+
+### Cicil
+`Proyek Mandiri`
+
+Kalkulator bunga sebenarnya: bunga flat, potongan admin, paylater, dan pinjaman harian dibongkar jadi bunga efektif per tahun.
+
+Struk rincian, grafik pokok dan bunga per cicilan, dan pembanding batas OJK untuk pinjaman harian.
+
+<img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-Finance-161A20?style=flat-square" />
+
+[**Repo →**](https://github.com/Reverseflash45/cicil) · [Hitung](https://cicil-id.vercel.app)
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
