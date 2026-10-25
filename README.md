@@ -444,7 +444,7 @@ Latihan TOEFL ITP dengan pembahasan bahasa Indonesia: satu soal per layar, langs
 </td>
 <td width="50%" valign="top">
 
-<a href="https://napas-mauve.vercel.app"><img src="gambar/napas.webp" width="100%" alt="Tangkapan layar Napas" /></a>
+<a href="https://napas.raffstw.my.id"><img src="gambar/napas.webp" width="100%" alt="Tangkapan layar Napas" /></a>
 
 ### Napas
 `Proyek Mandiri`
@@ -456,7 +456,7 @@ Kalender bulanan 27 tahun memperlihatkan musim asap karhutla; peta per tahun den
 <img src="https://img.shields.io/badge/-Python-0A0B0E?style=flat-square&logo=python&logoColor=3776AB&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Remote%20Sensing-161A20?style=flat-square" />
 
-[**Repo →**](https://github.com/Reverseflash45/napas) · [Cek](https://napas-mauve.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/napas) · [Cek](https://napas.raffstw.my.id)
 
 </td>
 </tr>
