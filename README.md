@@ -408,7 +408,7 @@ Struk rincian, grafik pokok dan bunga per cicilan, dan pembanding batas OJK untu
 </td>
 <td width="50%" valign="top">
 
-<a href="https://cekrek-three.vercel.app"><img src="gambar/cekrek.webp" width="100%" alt="Tangkapan layar Cekrek" /></a>
+<a href="https://cekrek.raffstw.my.id"><img src="gambar/cekrek.webp" width="100%" alt="Tangkapan layar Cekrek" /></a>
 
 ### Cekrek
 `Proyek Mandiri`
@@ -420,7 +420,7 @@ Bingkai struk dan karcis, lima filter, empat susunan. Semua diproses di perangka
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Canvas-161A20?style=flat-square" />
 
-[**Repo →**](https://github.com/Reverseflash45/cekrek) · [Jepret](https://cekrek-three.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/cekrek) · [Jepret](https://cekrek.raffstw.my.id)
 
 </td>
 </tr>
