@@ -415,7 +415,7 @@ Struk rincian, grafik pokok dan bunga per cicilan, dan pembanding batas OJK untu
 
 Photobooth di browser: hitung mundur 3, 2, 1, empat jepretan, lalu strip fotonya keluar dari slot.
 
-Bingkai struk dan karcis, lima filter, empat susunan. Semua diproses di perangkat, tanpa unggahan.
+Sampai 8 foto per cetakan, 14 bingkai (polkadot, piknik, malam berbintang, struk, karcis, dll.), lima filter. Semua diproses di perangkat, tanpa unggahan.
 
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Canvas-161A20?style=flat-square" />
