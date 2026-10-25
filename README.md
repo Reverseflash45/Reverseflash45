@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur.raffstw.my.id">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Cekrek</b> (photobooth di browser), <b>Cicil</b> (kalkulator bunga sebenarnya), dan <b>Gerhana</b> (gerhana matahari di 514 kabupaten/kota, 1900–2100)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Tembus</b> (latihan TOEFL ITP ala LJK), <b>Cekrek</b> (photobooth di browser), dan <b>Cicil</b> (kalkulator bunga sebenarnya)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -422,6 +422,27 @@ Sampai 8 foto per cetakan, 14 bingkai (polkadot, piknik, malam berbintang, struk
 
 [**Repo →**](https://github.com/Reverseflash45/cekrek) · [Jepret](https://cekrek.raffstw.my.id)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://tembus-five.vercel.app"><img src="gambar/tembus.webp" width="100%" alt="Tangkapan layar Tembus" /></a>
+
+### Tembus
+`Proyek Mandiri`
+
+Latihan TOEFL ITP dengan pembahasan bahasa Indonesia, tampil seperti LJK: jawaban diarsir, dikoreksi coretan pulpen merah.
+
+117 soal grammar, Reading, Listening dengan suara browser, kartu kosakata, dan simulasi mini dengan perkiraan skor.
+
+<img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-Web%20Speech-161A20?style=flat-square" />
+
+[**Repo →**](https://github.com/Reverseflash45/tembus) · [Latihan](https://tembus-five.vercel.app)
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
