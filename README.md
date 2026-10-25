@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur.raffstw.my.id">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Tembus</b> (latihan TOEFL ITP ala LJK), <b>Cekrek</b> (photobooth di browser), dan <b>Cicil</b> (kalkulator bunga sebenarnya)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Tembus</b> (latihan TOEFL ITP), <b>Cekrek</b> (photobooth di browser), dan <b>Cicil</b> (kalkulator bunga sebenarnya)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -432,7 +432,7 @@ Sampai 8 foto per cetakan, 14 bingkai (polkadot, piknik, malam berbintang, struk
 ### Tembus
 `Proyek Mandiri`
 
-Latihan TOEFL ITP dengan pembahasan bahasa Indonesia, tampil seperti LJK: jawaban diarsir, dikoreksi coretan pulpen merah.
+Latihan TOEFL ITP dengan pembahasan bahasa Indonesia: satu soal per layar, langsung dikoreksi, ada rencana belajar harian.
 
 117 soal grammar, Reading, Listening dengan suara browser, kartu kosakata, dan simulasi mini dengan perkiraan skor.
 
