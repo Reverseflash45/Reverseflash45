@@ -427,7 +427,7 @@ Sampai 8 foto per cetakan, 14 bingkai (polkadot, piknik, malam berbintang, struk
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://tembus-five.vercel.app"><img src="gambar/tembus.webp" width="100%" alt="Tangkapan layar Tembus" /></a>
+<a href="https://tembus.raffstw.my.id"><img src="gambar/tembus.webp" width="100%" alt="Tangkapan layar Tembus" /></a>
 
 ### Tembus
 `Proyek Mandiri`
@@ -439,7 +439,7 @@ Latihan TOEFL ITP dengan pembahasan bahasa Indonesia, tampil seperti LJK: jawaba
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Web%20Speech-161A20?style=flat-square" />
 
-[**Repo →**](https://github.com/Reverseflash45/tembus) · [Latihan](https://tembus-five.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/tembus) · [Latihan](https://tembus.raffstw.my.id)
 
 </td>
 <td width="50%" valign="top">
