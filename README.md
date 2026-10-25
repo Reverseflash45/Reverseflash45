@@ -25,7 +25,7 @@ Mahasiswa D4 Teknik Informatika, Fakultas Vokasi Universitas Airlangga. Membangu
 dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke produksi.
 
 <table>
-<tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur-tau.vercel.app">bisa dicoba di browser</a></td></tr>
+<tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur.raffstw.my.id">bisa dicoba di browser</a></td></tr>
 <tr><td align="center">▹</td><td>Baru rilis <b>Cicil</b> (kalkulator bunga sebenarnya), <b>Gerhana</b> (gerhana matahari di 514 kabupaten/kota, 1900–2100), dan <b>Gerah</b> (garis hangat Indonesia 1950–2024)</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
@@ -73,7 +73,7 @@ Pose 33 titik diubah jadi deret waktu sudut sendi, lalu diklasifikasi di HP oleh
 <img src="https://img.shields.io/badge/-TFLite-0A0B0E?style=flat-square&logo=tensorflow&logoColor=FF6F00&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Python-0A0B0E?style=flat-square&logo=python&logoColor=FFD43B&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/postur) · [Coba di browser](https://postur-tau.vercel.app) · [Unduh APK](https://github.com/Reverseflash45/postur/releases/latest)
+[**Repo →**](https://github.com/Reverseflash45/postur) · [Coba di browser](https://postur.raffstw.my.id) · [Unduh APK](https://github.com/Reverseflash45/postur/releases/latest)
 
 </td>
 <td width="50%" valign="top">
@@ -174,7 +174,7 @@ Tautan invoice bertoken, jadi klien bisa bayar via QRIS tanpa akun. Hanya pembay
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://dulu-segini.vercel.app"><img src="gambar/dulu-segini.webp" width="100%" alt="Tangkapan layar Dulu Segini" /></a>
+<a href="https://dulu.raffstw.my.id"><img src="gambar/dulu-segini.webp" width="100%" alt="Tangkapan layar Dulu Segini" /></a>
 
 ### Dulu Segini
 `Proyek Mandiri`
@@ -187,12 +187,12 @@ Plus tiga skenario: disimpan tunai, ditukar dolar, atau dibelikan emas. Data dit
 <img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Python-0A0B0E?style=flat-square&logo=python&logoColor=FFD43B&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/dulu-segini) · [Hitung](https://dulu-segini.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/dulu-segini) · [Hitung](https://dulu.raffstw.my.id)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://tebak-daerah.vercel.app"><img src="gambar/tebak-daerah.webp" width="100%" alt="Tangkapan layar Tebak Daerah" /></a>
+<a href="https://tebak.raffstw.my.id"><img src="gambar/tebak-daerah.webp" width="100%" alt="Tangkapan layar Tebak Daerah" /></a>
 
 ### Tebak Daerah
 `Proyek Mandiri`
@@ -204,14 +204,14 @@ Batas wilayah disederhanakan per daerah supaya kota kecil tidak jadi segitiga; p
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/tebak-daerah) · [Main](https://tebak-daerah.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/tebak-daerah) · [Main](https://tebak.raffstw.my.id)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://getar.vercel.app"><img src="gambar/getar.webp" width="100%" alt="Tangkapan layar Getar" /></a>
+<a href="https://getar.raffstw.my.id"><img src="gambar/getar.webp" width="100%" alt="Tangkapan layar Getar" /></a>
 
 ### Getar
 `Proyek Mandiri`
@@ -223,12 +223,12 @@ Seluruh katalog digambar sebagai pita seismogram dan peta yang memperlihatkan ba
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/getar) · [Buka](https://getar.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/getar) · [Buka](https://getar.raffstw.my.id)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://bara-id.vercel.app"><img src="gambar/bara.webp" width="100%" alt="Tangkapan layar Bara" /></a>
+<a href="https://bara.raffstw.my.id"><img src="gambar/bara.webp" width="100%" alt="Tangkapan layar Bara" /></a>
 
 ### Bara
 `Proyek Mandiri`
@@ -240,14 +240,14 @@ Letusan yang masih berlangsung ditandai, termasuk Dukono yang erupsi terus sejak
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/bara) · [Buka](https://bara-id.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/bara) · [Buka](https://bara.raffstw.my.id)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://bayang-id.vercel.app"><img src="gambar/bayang.webp" width="100%" alt="Tangkapan layar Bayang" /></a>
+<a href="https://bayang.raffstw.my.id"><img src="gambar/bayang.webp" width="100%" alt="Tangkapan layar Bayang" /></a>
 
 ### Bayang
 `Proyek Mandiri`
@@ -259,12 +259,12 @@ Plus simulasi jam matahari tampak atas, peta tanggal dan jam terbit seluruh Indo
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/bayang) · [Buka](https://bayang-id.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/bayang) · [Buka](https://bayang.raffstw.my.id)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://hilal-id.vercel.app"><img src="gambar/hilal.webp" width="100%" alt="Tangkapan layar Hilal" /></a>
+<a href="https://hilal.raffstw.my.id"><img src="gambar/hilal.webp" width="100%" alt="Tangkapan layar Hilal" /></a>
 
 ### Hilal
 `Proyek Mandiri`
@@ -276,14 +276,14 @@ Perkiraan awal Ramadan, Idulfitri, dan Iduladha, plus diagram langit barat. Diuj
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/hilal) · [Buka](https://hilal-id.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/hilal) · [Buka](https://hilal.raffstw.my.id)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://gending-id.vercel.app"><img src="gambar/gending.webp" width="100%" alt="Tangkapan layar Gending" /></a>
+<a href="https://gending.raffstw.my.id"><img src="gambar/gending.webp" width="100%" alt="Tangkapan layar Gending" /></a>
 
 ### Gending
 `Proyek Mandiri`
@@ -295,12 +295,12 @@ Semua bunyi disintesis dengan Web Audio, tanpa rekaman. Plus perbandingan laras 
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Web%20Audio-161A20?style=flat-square" />
 
-[**Repo →**](https://github.com/Reverseflash45/gending) · [Main](https://gending-id.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/gending) · [Main](https://gending.raffstw.my.id)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://aksara-id.vercel.app"><img src="gambar/aksara.webp" width="100%" alt="Tangkapan layar Aksara" /></a>
+<a href="https://aksara.raffstw.my.id"><img src="gambar/aksara.webp" width="100%" alt="Tangkapan layar Aksara" /></a>
 
 ### Aksara
 `Proyek Mandiri`
@@ -312,14 +312,14 @@ Plus carakan menurut kisah Aji Saka, kuis membaca, dan unduhan gambar.
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Unicode-161A20?style=flat-square" />
 
-[**Repo →**](https://github.com/Reverseflash45/aksara) · [Coba](https://aksara-id.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/aksara) · [Coba](https://aksara.raffstw.my.id)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://lidah.vercel.app"><img src="gambar/lidah.webp" width="100%" alt="Tangkapan layar Lidah" /></a>
+<a href="https://lidah.raffstw.my.id"><img src="gambar/lidah.webp" width="100%" alt="Tangkapan layar Lidah" /></a>
 
 ### Lidah
 `Proyek Mandiri`
@@ -331,12 +331,12 @@ Plus komposisi per wilayah, bahasa terdekat dari kabupaten/kotamu, dan silsilah 
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/lidah) · [Buka](https://lidah.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/lidah) · [Buka](https://lidah.raffstw.my.id)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://lintas-id.vercel.app"><img src="gambar/lintas.webp" width="100%" alt="Tangkapan layar Lintas" /></a>
+<a href="https://lintas.raffstw.my.id"><img src="gambar/lintas.webp" width="100%" alt="Tangkapan layar Lintas" /></a>
 
 ### Lintas
 `Proyek Mandiri`
@@ -348,14 +348,14 @@ Graf ketetanggaan dari topologi peta, rute terpendek dengan BFS, dan teka-teki y
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Game-161A20?style=flat-square" />
 
-[**Repo →**](https://github.com/Reverseflash45/lintas) · [Main](https://lintas-id.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/lintas) · [Main](https://lintas.raffstw.my.id)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://gerah.vercel.app"><img src="gambar/gerah.webp" width="100%" alt="Tangkapan layar Gerah" /></a>
+<a href="https://gerah.raffstw.my.id"><img src="gambar/gerah.webp" width="100%" alt="Tangkapan layar Gerah" /></a>
 
 ### Gerah
 `Proyek Mandiri`
@@ -367,12 +367,12 @@ Isi tahun lahirmu untuk melihat berapa derajat lebih gerah sejak itu, plus kalen
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-D3-0A0B0E?style=flat-square&logo=d3dotjs&logoColor=F9A03C&labelColor=0A0B0E&color=161A20" />
 
-[**Repo →**](https://github.com/Reverseflash45/gerah) · [Buka](https://gerah.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/gerah) · [Buka](https://gerah.raffstw.my.id)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://gerhana-id.vercel.app"><img src="gambar/gerhana.webp" width="100%" alt="Tangkapan layar Gerhana" /></a>
+<a href="https://gerhana.raffstw.my.id"><img src="gambar/gerhana.webp" width="100%" alt="Tangkapan layar Gerhana" /></a>
 
 ### Gerhana
 `Proyek Mandiri`
@@ -384,14 +384,14 @@ Jam dan lama gerhana di daerahmu, gambar Matahari dan Bulan yang bisa diputar, p
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Astronomy-161A20?style=flat-square" />
 
-[**Repo →**](https://github.com/Reverseflash45/gerhana) · [Buka](https://gerhana-id.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/gerhana) · [Buka](https://gerhana.raffstw.my.id)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://cicil-id.vercel.app"><img src="gambar/cicil.webp" width="100%" alt="Tangkapan layar Cicil" /></a>
+<a href="https://cicil.raffstw.my.id"><img src="gambar/cicil.webp" width="100%" alt="Tangkapan layar Cicil" /></a>
 
 ### Cicil
 `Proyek Mandiri`
@@ -403,7 +403,7 @@ Struk rincian, grafik pokok dan bunga per cicilan, dan pembanding batas OJK untu
 <img src="https://img.shields.io/badge/-TypeScript-0A0B0E?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0B0E&color=161A20" />
 <img src="https://img.shields.io/badge/-Finance-161A20?style=flat-square" />
 
-[**Repo →**](https://github.com/Reverseflash45/cicil) · [Hitung](https://cicil-id.vercel.app)
+[**Repo →**](https://github.com/Reverseflash45/cicil) · [Hitung](https://cicil.raffstw.my.id)
 
 </td>
 <td width="50%" valign="top">
