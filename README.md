@@ -26,7 +26,7 @@ dari perancangan sampai rilis, termasuk pengujian otomatis dan penerapan ke prod
 
 <table>
 <tr><td width="30" align="center">▹</td><td>Skripsi: <b>Postur</b>, deteksi kesalahan postur squat & push-up dari kamera. Random Forest, 1D-CNN, dan LSTM dibandingkan langsung di perangkat, dan sekarang <a href="https://postur.raffstw.my.id">bisa dicoba di browser</a></td></tr>
-<tr><td align="center">▹</td><td>Baru rilis <b>Napas</b> (kualitas udara 514 kabupaten/kota), <b>Tembus</b> (latihan TOEFL ITP), dan <b>Cekrek</b> (photobooth di browser)</td></tr>
+<tr><td align="center">▹</td><td>Baru rilis <b>Rawan</b> (bencana alam 514 kabupaten/kota), <b>Napas</b> (kualitas udara), dan <b>Tembus</b> (latihan TOEFL ITP). 16 proyek lama juga ganti tampilan, masing-masing punya cirinya sendiri</td></tr>
 <tr><td align="center">▹</td><td>Merawat <b>Tracking</b>, aplikasi produktivitas Flutter: 29 modul, 1.059 test otomatis</td></tr>
 <tr><td align="center">▹</td><td>Medali Perunggu Matematika tingkat nasional, peringkat 7 dari 246 peserta</td></tr>
 </table>
@@ -459,6 +459,26 @@ Kalender bulanan 27 tahun memperlihatkan musim asap karhutla; peta per tahun den
 [**Repo →**](https://github.com/Reverseflash45/napas) · [Cek](https://napas.raffstw.my.id)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://rawan-omega.vercel.app"><img src="gambar/rawan.webp" width="100%" alt="Tangkapan layar Rawan" /></a>
+
+### Rawan
+`Proyek Mandiri`
+
+Bencana alam apa saja yang pernah melanda daerahmu? 23 ribu kejadian di 514 kabupaten/kota, 2010–2019, dari data DIBI BNPB.
+
+Delapan jenis bisa dipilah di peta; gempa cuma 1,4% kejadian tapi 56% korban jiwa.
+
+<img src="https://img.shields.io/badge/-Python-0A0B0E?style=flat-square&logo=python&logoColor=3776AB&labelColor=0A0B0E&color=161A20" />
+<img src="https://img.shields.io/badge/-D3-161A20?style=flat-square" />
+
+[**Repo →**](https://github.com/Reverseflash45/rawan) · [Cek](https://rawan-omega.vercel.app)
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
